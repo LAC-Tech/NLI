@@ -1,0 +1,18 @@
+{
+	"name": "nli",
+	"version": "0.0.1",
+	"description": "Natural Location Identifier (ISO 8000-118)",
+	"main": "index.js",
+	"scripts": {
+		"test": "vitest"
+	},
+	"type": "module",
+	"author": "Lewis Andrew Campbell",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^22.9.1",
+		"fast-check": "^3.23.1",
+		"typescript": "^5.6.3",
+		"vitest": "^2.1.5"
+	}
+}
