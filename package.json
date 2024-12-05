@@ -1,5 +1,6 @@
 {
 	"name": "@outdata/nli",
+	"publishConfig": { "access": "public" },
 	"version": "0.0.1",
 	"description": "Natural Location Identifier (ISO 8000-118)",
 	"main": "src/index.js",
