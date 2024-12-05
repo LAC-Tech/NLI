@@ -1,5 +1,6 @@
 import * as check from "./check.js"
 import { Latitude, Longitude, Storey, GroundLevel } from "./geography.js"
+export { Latitude, Longitude }
 /**
  * Natural Location Identifier
  *
