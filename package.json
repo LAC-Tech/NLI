@@ -1,7 +1,7 @@
 {
 	"name": "@outdata/nli",
 	"publishConfig": { "access": "public" },
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Natural Location Identifier (ISO 8000-118)",
 	"main": "src/index.js",
 	"types": "declarations/index.d.ts",
@@ -12,6 +12,7 @@
 	"type": "module",
 	"author": "Lewis Andrew Campbell",
 	"license": "MIT",
+	"files": ["src", "declarations"],
 	"devDependencies": {
 		"@types/node": "^22.9.1",
 		"fast-check": "^3.23.1",
